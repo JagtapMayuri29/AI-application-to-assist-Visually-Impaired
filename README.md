@@ -23,9 +23,9 @@ Offers multi-language support for global accessibility.
 
 ## Core Technologies ##
 
-### 1.Generative AI (Google Generative AI) ### :  
+### 1.Generative AI (Google Generative AI) :  
 Models like OpenAI's GPT or Google's Gemini provide advanced scene understanding and contextual descriptions.
-### 2.Streamlit ### :  
+### 2.Streamlit :  
 Streamlit is an open-source app framework used for creating web-based data applications with Python. It is simple to use and allows developers to build interactive web applications 
-### 3.Langchain ### : 
+### 3.Langchain  : 
 LangChain is a framework designed to help developers build applications powered by large language models (LLMs)
