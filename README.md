@@ -30,11 +30,18 @@ Streamlit is an open-source app framework used for creating web-based data appli
 ### 3.Langchain  : 
 LangChain is a framework designed to help developers build applications powered by large language models (LLMs)
 
-### Tools and Technologies Used ###
-•	Streamlit: For developing a user-friendly interface.
-•	Google Generative AI (Gemini 1.5): For generating scene descriptions and contextual guidance.
-•	Langchain : Used LangChain's GoogleGenerativeAI integration to query Gemini for scene descriptions based on the image content. Combine OCR output with LangChain to provide enhanced and structured prompts to the AI for contextual guidance.
-•	Tesseract OCR: For extracting text from images.
-•	gTTS (Google Text-to-Speech): For converting text into speech.
-•	Pillow: For image preprocessing and manipulation.
+## Tools and Technologies Used ##
+
+### Streamlit: 
+For developing a user-friendly interface.
+### Google Generative AI (Gemini 1.5): 
+For generating scene descriptions and contextual guidance.
+### Langchain : 
+Used LangChain's GoogleGenerativeAI integration to query Gemini for scene descriptions based on the image content. Combine OCR output with LangChain to provide enhanced and structured prompts to the AI for contextual guidance.
+### Tesseract OCR:
+For extracting text from images.
+### gTTS (Google Text-to-Speech): 
+For converting text into speech.
+### Pillow: 
+For image preprocessing and manipulation.
 
