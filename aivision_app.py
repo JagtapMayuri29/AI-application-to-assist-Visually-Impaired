@@ -8,7 +8,7 @@ from gtts import gTTS
 import tempfile
 
 # Initialize Google Generative AI with API Key
-GEMINI_API_KEY = "AIzaSyBKToyyYlDuR27IFHnPALcr_8aAf9xYalU"  # Replace with your valid API key
+GEMINI_API_KEY = "______________"  # Replace with your valid API key
 os.environ["GOOGLE_API_KEY"] = GEMINI_API_KEY
 llm = GoogleGenerativeAI(model="gemini-1.5-pro", api_key=GEMINI_API_KEY)
 
