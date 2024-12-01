@@ -9,7 +9,7 @@ their environment, reading visual content, and performing tasks that rely on sig
 
 Provides a detailed description of an image or scene to help users understand their surroundings.
 Detects objects, people, and activities in the scene.
-Suggests actions or precautions based on the scene (e.g., detecting obstacles or hazards).
+Suggests actions or precautions based on the scene.
 
 ### Text Recognition (OCR) ###
 
